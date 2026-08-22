@@ -214,6 +214,3 @@ Example flow:
 3. `POST /api/showtimes` as admin → schedule a showtime for that movie
 4. `POST /api/reservations` as a user → book seats
 
-## License
-
-This project is licensed under the MIT License with an Attribution Clause — see the [LICENSE](LICENSE) file for details.
